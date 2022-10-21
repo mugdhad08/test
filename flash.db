@@ -1,0 +1,1 @@
+create table decks(deck_id int unique,deck_name text);
